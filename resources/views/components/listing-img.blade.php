@@ -1,6 +1,6 @@
 <div class="listing-image">
     <img 
-        src="{{ URL('storage/' . $file) }}" 
+        src="{{ asset('images/' . $file) }}" 
         alt="{{ $alt }}" 
         class="img-fluid"
     >                        

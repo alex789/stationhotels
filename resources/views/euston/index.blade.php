@@ -25,7 +25,7 @@
         </h4>
 
         <div class="image">
-          <img src="{{ URL('storage/euston-square-hotel.jpg') }}" alt="Euston Square Hotel" class="img-fluid">
+          <img src="{{ asset('images/euston-square-hotel.jpg') }}" alt="Euston Square Hotel" class="img-fluid">
         </div>
 
         <p>Euston Square Hotel is a boutique hotel located in central London's Euston neighbourhood, offering stylish and modern rooms at competitive rates. Situated less than 1,150 feet from London Euston Station, the hotel provides easy access to attractions such as the British Museum, Regent's Park, the British Library, Oxford Street, and the theatres of the West End.</p>
@@ -51,7 +51,7 @@
         </h4>
     
         <div class="image">
-          <img src="{{ URL('storage/the-wesley-euston.jpg') }}" alt="The Wesley Euston" class="img-fluid">
+          <img src="{{ asset('images/the-wesley-euston.jpg') }}" alt="The Wesley Euston" class="img-fluid">
         </div>
 
         <p>
