@@ -61,7 +61,12 @@
 
     <p>In conclusion, Euston Square Hotel offers an excellent combination of location, comfort, and modern amenities, making it an ideal choice for travelers looking to explore London. Whether visiting for business or pleasure, guests will find a welcoming atmosphere and a plethora of services designed to enhance their stay.</p>
     
-    <p>Check room rates</p>    
+    <a 
+        class="btn btn-primary" 
+        href="#"
+    >
+        Check room rates
+    </a>    
 
 </x-content-layout>
 

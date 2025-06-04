@@ -32,9 +32,12 @@
 
         <p>The location is convenient for both business and leisure travellers, also offering close proximity to King's Cross and St Pancras International stations. Guests can enjoy amenities like free Wi-Fi, 24-hour front desk service, and air-conditioned rooms equipped with digital flat-screen TVs featuring built-in entertainment systems.</p>
 
-        <button type="button" class="btn btn-primary" href="{{ route('euston.euston-square-hotel') }}">
-          Check room rates
-        </button>
+        <a 
+          class="btn btn-primary" 
+          href="{{ route('euston.euston-square-hotel') }}"
+        >
+          More Info
+        </a>
 
       </article>
     </div>
@@ -66,9 +69,12 @@
           The Wesley Euston was the first UK hotel to receive a social enterprise mark and has been recognized as a carbon champion by the local authority. 
         </p>                     
     
-        <button type="button" class="btn btn-primary" href="{{ route('euston.the-wesley') }}">
-          Check room rates
-        </button>
+        <a  
+          class="btn btn-primary" 
+          href="{{ route('euston.the-wesley') }}"
+        >
+          More Info
+        </a>
       </article>
 
 

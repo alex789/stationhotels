@@ -63,8 +63,12 @@
 
     <p>In summary, the Wesley Euston Hotel stands out as a top choice for travelers seeking comfort and convenience in London. With its modern accommodations and strategic location, it provides an excellent base from which to explore the city's many attractions. Whether you're in town for business or leisure, the Wesley Euston Hotel is dedicated to ensuring a memorable stay.</p>
 
-    <p>Check room rates</p>
-
+    <a 
+        class="btn btn-primary" 
+        href="#"
+    >
+        Check room rates
+    </a>    
 
 
 </x-content-layout>
