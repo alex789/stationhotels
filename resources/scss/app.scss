@@ -93,12 +93,20 @@ section.hotel {
 		letter-spacing: -2px;
 	}
 
+	h5 {
+		margin: 20px 0;
+	}
+
 	div.listing-image {
-		margin-bottom: 30px;		
+		margin: 30px 0 10px 0;		
 	}
 
 	ul {
-		margin: -20px 0 30px 0;
+		margin: 20px 15px;
+	}
+
+	.btn-primary {
+		margin-top: 25px;
 	}
 }
 
