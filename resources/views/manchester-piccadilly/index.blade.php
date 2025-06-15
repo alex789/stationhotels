@@ -5,7 +5,6 @@
 @section('logo', 'Manchester Piccadilly Station Hotels')
 
 
-
 <x-content-layout class="station-home">
 
   <h2>Manchester Piccadilly Station Hotel Guide</h2>
