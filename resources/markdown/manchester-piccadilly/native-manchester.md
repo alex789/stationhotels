@@ -1,49 +1,56 @@
-# HOTEL NAME
+# Native Manchester Hotel
 
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse tenetur, culpa, quae unde nulla maiores? Inventore maiores aut, cupiditate facilis nulla! In, laborum a, enim beatae tempora obcaecati quisquam eaque?
+Native Hotel Manchester is a unique accommodation choice located in the heart of Manchester, blending the comforts of home with the services of a hotel. With its contemporary design and a focus on local culture, the hotel caters to a diverse array of guests, from business travelers to weekend explorers. It offers an excellent base for those looking to explore the vibrant city, with easy access to local attractions, shopping, and dining options.
+
 
 <x-listing-img 
-	file="-exterior.jpg" 
+	file="native-manchester-exterior.jpg" 
 	alt="Exterior" 
 />
 
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis, earum corporis, reprehenderit, minima voluptates enim perferendis animi maiores inventore ad architecto labore atque, nemo ex quasi eum! Delectus, rem accusantium.
+
+The hotel features a variety of room types to suit different needs, including studios and one-bedroom apartments. These rooms are designed with modern aesthetics and functionality in mind, showcasing both comfort and style. Guests can expect a welcoming atmosphere, making it easy to unwind after a day of exploring or work commitments.
 
 <x-listing-img 
-	file="-room.jpg" 
+	file="native-manchester-room.jpg" 
 	alt="Room" 
 />
 <x-listing-img 
-	file="-room-2.jpg" 
+	file="native-manchester-room-2.jpg" 
 	alt="Room 2" 
 />
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore assumenda blanditiis accusantium consequatur atque velit repudiandae ex ut. Magnam maxime sapiente odit sit, voluptates, facere perspiciatis laudantium ea eius blanditiis.
+
+Further room details include everything necessary for a comfortable stay. Each room is equipped with modern furnishings and amenities that promote relaxation and convenience, ensuring that guests have everything they need at their fingertips. The attention to detail in the room design enhances the overall experience, making it feel like a home away from home.
 
 <x-listing-img 
-	file="-bathroom.jpg" 
+	file="native-manchester-bathroom.jpg" 
 	alt="Bathroom" 
 />
 
+
 ### Room Amenities Include:
 
-- List item 1
-- List item 2
-- List item 3
-- List item 4
-- List item 5
-- List item 6
-- List item 7
+- Free Wi-Fi
+- Fully equipped kitchen
+- Flat-screen TV
+- Comfortable bedding
+- Workspace with a desk
+- Private bathroom with complimentary toiletries
+- Iron and ironing board
+- Hairdryer
 
 <x-listing-img 
-	file="-facilities.jpg" 
+	file="native-manchester-facilities.jpg" 
 	alt="Gym" 
 />
 <x-listing-img 
-	file="-facilities-2.jpg" 
+	file="native-manchester-facilities-2.jpg" 
 	alt="Reception" 
 />
 
-Lorem ipsum dolor sit amet consectetur adipisicing, elit. Maxime dignissimos facilis laborum tempora velit, voluptas sit quis esse possimus ipsam dolores, natus fuga dolorem sapiente porro commodi pariatur ex officia!
+
+Native Hotel Manchester offers a fantastic blend of comfort, convenience, and style, making it an ideal choice for anyone visiting the city. With its prime location and range of room amenities, guests can enjoy their stay whether they are in Manchester for business or leisure. The hotel's commitment to exceptional service further enhances the overall experience, ensuring guests leave with lasting memories.
+
 
 <a href="#" class="btn btn-primary">Check room rates</a>  

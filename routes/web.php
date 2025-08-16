@@ -28,9 +28,9 @@ Route::domain('manchester-piccadilly.' . env('APP_URL'))->name('manchester-picca
         return view('manchester-piccadilly.index');
     })->name('station');
 
-    Route::get('/piccadilly-central-pub-and-hotel', function () {
-        return view('manchester-piccadilly.central-hotel');
-    })->name('central-hotel');
+    Route::get('/mercure-manchester-piccadilly', function () {
+        return view('manchester-piccadilly.mercure');
+    })->name('mercure');
 
     Route::get('/native-manchester', function () {
         return view('manchester-piccadilly.native-manchester');
